@@ -1,2 +1,3 @@
 # demo_exail
-demo unreal pour exail
+
+Ce dépôt contient le projet Unreal à envoyer ici pour Exail.
