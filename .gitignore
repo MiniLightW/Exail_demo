@@ -1,0 +1,21 @@
+# Dossiers générés par Unreal
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Fichiers spécifiques
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Dossier de build si présent à côté du projet
+Build/
+Packaged/
+
